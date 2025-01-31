@@ -10,21 +10,21 @@
 ############################
 
 # Name of website
-title: My website
+title: Boot Camp Buddy
 
 # Your name to show in the footer
-author: Some Person
+author: Boot Camp Buddy
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "about"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Documentation: "https://spiegel.de"
+    - Support: "https://github.com/bootcampbuddy/bootcampbuddy.github.io/issues"
+  Author's home: "https://github.com/bootcampbuddy"
 
 ################
 # --- Logo --- #
